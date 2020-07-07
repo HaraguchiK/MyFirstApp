@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO List</string>
+    <string name="SampleFragmentButton">TODO List 一覧表示</string>
+    <string name="FirstFragment">First Fragment</string>
+</resources>
